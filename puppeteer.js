@@ -32,7 +32,7 @@ await page.goto('https://google.com');
 console.log(`goto: ${ performance.now() - start }ms`)
 
 await page.screenshot({
-    path: 'screenshot.jpg'
+    path: 'screenshot.png'
 });
 
 console.log(`screenshot: ${ performance.now() - start }ms`)
