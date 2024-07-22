@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-vs-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.45.2",
+    "puppeteer": "^22.13.1"
+  }
+}
